@@ -3,3 +3,5 @@
 
 
 Esse repositório foi criado durante uma aula para a pratica das atividades de github.
+
+Essa linha foi adicionada diretamente no site! Que impressionante.
